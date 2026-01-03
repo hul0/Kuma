@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Resume Architect",
+  "description": "An intelligent resume builder that uses Google Gemini to transform your raw career history into a professional, polished Markdown resume.",
+  "requestFramePermissions": []
+}
